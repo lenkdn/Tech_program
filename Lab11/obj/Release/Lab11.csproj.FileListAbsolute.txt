@@ -1,0 +1,6 @@
+C:\C_sharp\Tech_program\Lab11\bin\Release\Lab11.exe.config
+C:\C_sharp\Tech_program\Lab11\bin\Release\Lab11.exe
+C:\C_sharp\Tech_program\Lab11\bin\Release\Lab11.pdb
+C:\C_sharp\Tech_program\Lab11\obj\Release\Lab11.csproj.CoreCompileInputs.cache
+C:\C_sharp\Tech_program\Lab11\obj\Release\Lab11.exe
+C:\C_sharp\Tech_program\Lab11\obj\Release\Lab11.pdb
