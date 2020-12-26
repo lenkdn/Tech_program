@@ -1,0 +1,7 @@
+C:\C_sharp\Tech_program\Lab8\bin\Debug\Lab8.exe.config
+C:\C_sharp\Tech_program\Lab8\bin\Debug\Lab8.exe
+C:\C_sharp\Tech_program\Lab8\bin\Debug\Lab8.pdb
+C:\C_sharp\Tech_program\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+C:\C_sharp\Tech_program\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+C:\C_sharp\Tech_program\Lab8\obj\Debug\Lab8.exe
+C:\C_sharp\Tech_program\Lab8\obj\Debug\Lab8.pdb
