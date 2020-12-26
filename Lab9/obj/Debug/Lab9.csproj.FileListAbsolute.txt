@@ -1,0 +1,7 @@
+C:\C_sharp\Tech_program\Lab9\obj\Debug\Lab9.csprojAssemblyReference.cache
+C:\C_sharp\Tech_program\Lab9\obj\Debug\Lab9.csproj.CoreCompileInputs.cache
+C:\C_sharp\Tech_program\Lab9\bin\Debug\Lab9.exe.config
+C:\C_sharp\Tech_program\Lab9\bin\Debug\Lab9.exe
+C:\C_sharp\Tech_program\Lab9\bin\Debug\Lab9.pdb
+C:\C_sharp\Tech_program\Lab9\obj\Debug\Lab9.exe
+C:\C_sharp\Tech_program\Lab9\obj\Debug\Lab9.pdb
