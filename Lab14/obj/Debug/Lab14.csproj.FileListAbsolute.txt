@@ -1,0 +1,30 @@
+\\tsclient\F\Технологии программирования\Lab14\bin\Debug\Lab14.exe.config
+\\tsclient\F\Технологии программирования\Lab14\bin\Debug\Lab14.exe
+\\tsclient\F\Технологии программирования\Lab14\bin\Debug\Lab14.pdb
+\\tsclient\F\Технологии программирования\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+\\tsclient\F\Технологии программирования\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+\\tsclient\F\Технологии программирования\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+\\tsclient\F\Технологии программирования\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+\\tsclient\F\Технологии программирования\Lab14\obj\Debug\Lab14.exe
+\\tsclient\F\Технологии программирования\Lab14\obj\Debug\Lab14.pdb
+\\tsclient\F\Технологии программирования\Lab14\obj\Debug\Lab14.MainForm.resources
+\\tsclient\I\Технологии программирования\Lab14\bin\Debug\Lab14.exe.config
+\\tsclient\I\Технологии программирования\Lab14\bin\Debug\Lab14.exe
+\\tsclient\I\Технологии программирования\Lab14\bin\Debug\Lab14.pdb
+\\tsclient\I\Технологии программирования\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+\\tsclient\I\Технологии программирования\Lab14\obj\Debug\Lab14.MainForm.resources
+\\tsclient\I\Технологии программирования\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+\\tsclient\I\Технологии программирования\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+\\tsclient\I\Технологии программирования\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+\\tsclient\I\Технологии программирования\Lab14\obj\Debug\Lab14.exe
+\\tsclient\I\Технологии программирования\Lab14\obj\Debug\Lab14.pdb
+C:\C_sharp\Tech_program\Lab14\bin\Debug\Lab14.exe.config
+C:\C_sharp\Tech_program\Lab14\bin\Debug\Lab14.exe
+C:\C_sharp\Tech_program\Lab14\bin\Debug\Lab14.pdb
+C:\C_sharp\Tech_program\Lab14\obj\Debug\Lab14.csprojAssemblyReference.cache
+C:\C_sharp\Tech_program\Lab14\obj\Debug\Lab14.MainForm.resources
+C:\C_sharp\Tech_program\Lab14\obj\Debug\Lab14.Properties.Resources.resources
+C:\C_sharp\Tech_program\Lab14\obj\Debug\Lab14.csproj.GenerateResource.cache
+C:\C_sharp\Tech_program\Lab14\obj\Debug\Lab14.csproj.CoreCompileInputs.cache
+C:\C_sharp\Tech_program\Lab14\obj\Debug\Lab14.exe
+C:\C_sharp\Tech_program\Lab14\obj\Debug\Lab14.pdb
