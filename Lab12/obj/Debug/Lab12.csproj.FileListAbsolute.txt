@@ -1,0 +1,20 @@
+C:\C_sharp\Tech_program\Lab12\bin\Debug\Lab12.exe.config
+C:\C_sharp\Tech_program\Lab12\bin\Debug\Lab12.exe
+C:\C_sharp\Tech_program\Lab12\bin\Debug\Lab12.pdb
+C:\C_sharp\Tech_program\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+C:\C_sharp\Tech_program\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+C:\C_sharp\Tech_program\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+C:\C_sharp\Tech_program\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\C_sharp\Tech_program\Lab12\obj\Debug\Lab12.exe
+C:\C_sharp\Tech_program\Lab12\obj\Debug\Lab12.pdb
+C:\C_sharp\Tech_program\Lab12\obj\Debug\Lab12.Form1.resources
+E:\Технологии программирования\Lab12\bin\Debug\Lab12.exe.config
+E:\Технологии программирования\Lab12\bin\Debug\Lab12.exe
+E:\Технологии программирования\Lab12\bin\Debug\Lab12.pdb
+E:\Технологии программирования\Lab12\obj\Debug\Lab12.csprojAssemblyReference.cache
+E:\Технологии программирования\Lab12\obj\Debug\Lab12.Form1.resources
+E:\Технологии программирования\Lab12\obj\Debug\Lab12.Properties.Resources.resources
+E:\Технологии программирования\Lab12\obj\Debug\Lab12.csproj.GenerateResource.cache
+E:\Технологии программирования\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+E:\Технологии программирования\Lab12\obj\Debug\Lab12.exe
+E:\Технологии программирования\Lab12\obj\Debug\Lab12.pdb
