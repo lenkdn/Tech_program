@@ -1,0 +1,30 @@
+E:\Технологии программирования\Lab18\bin\Debug\Lab18.exe.config
+E:\Технологии программирования\Lab18\bin\Debug\Lab18.exe
+E:\Технологии программирования\Lab18\bin\Debug\Lab18.pdb
+E:\Технологии программирования\Lab18\obj\Debug\Lab18.csprojAssemblyReference.cache
+E:\Технологии программирования\Lab18\obj\Debug\MainWindow.g.cs
+E:\Технологии программирования\Lab18\obj\Debug\App.g.cs
+E:\Технологии программирования\Lab18\obj\Debug\Lab18_MarkupCompile.cache
+E:\Технологии программирования\Lab18\obj\Debug\Lab18_MarkupCompile.lref
+E:\Технологии программирования\Lab18\obj\Debug\MainWindow.baml
+E:\Технологии программирования\Lab18\obj\Debug\Lab18.g.resources
+E:\Технологии программирования\Lab18\obj\Debug\Lab18.Properties.Resources.resources
+E:\Технологии программирования\Lab18\obj\Debug\Lab18.csproj.GenerateResource.cache
+E:\Технологии программирования\Lab18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
+E:\Технологии программирования\Lab18\obj\Debug\Lab18.exe
+E:\Технологии программирования\Lab18\obj\Debug\Lab18.pdb
+C:\C_sharp\Tech_program\Lab18\obj\Debug\Lab18.csprojAssemblyReference.cache
+C:\C_sharp\Tech_program\Lab18\obj\Debug\MainWindow.g.cs
+C:\C_sharp\Tech_program\Lab18\obj\Debug\App.g.cs
+C:\C_sharp\Tech_program\Lab18\obj\Debug\Lab18_MarkupCompile.cache
+C:\C_sharp\Tech_program\Lab18\obj\Debug\Lab18_MarkupCompile.lref
+C:\C_sharp\Tech_program\Lab18\obj\Debug\Lab18.exe
+C:\C_sharp\Tech_program\Lab18\obj\Debug\Lab18.pdb
+C:\C_sharp\Tech_program\Lab18\bin\Debug\Lab18.exe.config
+C:\C_sharp\Tech_program\Lab18\bin\Debug\Lab18.exe
+C:\C_sharp\Tech_program\Lab18\bin\Debug\Lab18.pdb
+C:\C_sharp\Tech_program\Lab18\obj\Debug\MainWindow.baml
+C:\C_sharp\Tech_program\Lab18\obj\Debug\Lab18.g.resources
+C:\C_sharp\Tech_program\Lab18\obj\Debug\Lab18.Properties.Resources.resources
+C:\C_sharp\Tech_program\Lab18\obj\Debug\Lab18.csproj.GenerateResource.cache
+C:\C_sharp\Tech_program\Lab18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
