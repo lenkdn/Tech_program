@@ -1,0 +1,10 @@
+C:\C_sharp\Tech_program\Lab16\bin\Debug\Lab16.exe.config
+C:\C_sharp\Tech_program\Lab16\bin\Debug\Lab16.exe
+C:\C_sharp\Tech_program\Lab16\bin\Debug\Lab16.pdb
+C:\C_sharp\Tech_program\Lab16\obj\Debug\Lab16.csprojAssemblyReference.cache
+C:\C_sharp\Tech_program\Lab16\obj\Debug\Lab16.Form1.resources
+C:\C_sharp\Tech_program\Lab16\obj\Debug\Lab16.Properties.Resources.resources
+C:\C_sharp\Tech_program\Lab16\obj\Debug\Lab16.csproj.GenerateResource.cache
+C:\C_sharp\Tech_program\Lab16\obj\Debug\Lab16.csproj.CoreCompileInputs.cache
+C:\C_sharp\Tech_program\Lab16\obj\Debug\Lab16.exe
+C:\C_sharp\Tech_program\Lab16\obj\Debug\Lab16.pdb
