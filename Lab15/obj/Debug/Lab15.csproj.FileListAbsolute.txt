@@ -1,0 +1,30 @@
+\\tsclient\I\Технологии программирования\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+\\tsclient\I\Технологии программирования\Lab15\obj\Debug\Lab15.Form1.resources
+\\tsclient\I\Технологии программирования\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+\\tsclient\I\Технологии программирования\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+\\tsclient\I\Технологии программирования\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+\\tsclient\I\Технологии программирования\Lab15\bin\Debug\Lab15.exe.config
+\\tsclient\I\Технологии программирования\Lab15\bin\Debug\Lab15.exe
+\\tsclient\I\Технологии программирования\Lab15\bin\Debug\Lab15.pdb
+\\tsclient\I\Технологии программирования\Lab15\obj\Debug\Lab15.exe
+\\tsclient\I\Технологии программирования\Lab15\obj\Debug\Lab15.pdb
+C:\C_sharp\Tech_program\Lab15\bin\Debug\Lab15.exe.config
+C:\C_sharp\Tech_program\Lab15\bin\Debug\Lab15.exe
+C:\C_sharp\Tech_program\Lab15\bin\Debug\Lab15.pdb
+C:\C_sharp\Tech_program\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+C:\C_sharp\Tech_program\Lab15\obj\Debug\Lab15.Form1.resources
+C:\C_sharp\Tech_program\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+C:\C_sharp\Tech_program\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+C:\C_sharp\Tech_program\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+C:\C_sharp\Tech_program\Lab15\obj\Debug\Lab15.exe
+C:\C_sharp\Tech_program\Lab15\obj\Debug\Lab15.pdb
+F:\Технологии программирования\Lab15\bin\Debug\Lab15.exe.config
+F:\Технологии программирования\Lab15\bin\Debug\Lab15.exe
+F:\Технологии программирования\Lab15\bin\Debug\Lab15.pdb
+F:\Технологии программирования\Lab15\obj\Debug\Lab15.csprojAssemblyReference.cache
+F:\Технологии программирования\Lab15\obj\Debug\Lab15.Form1.resources
+F:\Технологии программирования\Lab15\obj\Debug\Lab15.Properties.Resources.resources
+F:\Технологии программирования\Lab15\obj\Debug\Lab15.csproj.GenerateResource.cache
+F:\Технологии программирования\Lab15\obj\Debug\Lab15.csproj.CoreCompileInputs.cache
+F:\Технологии программирования\Lab15\obj\Debug\Lab15.exe
+F:\Технологии программирования\Lab15\obj\Debug\Lab15.pdb
