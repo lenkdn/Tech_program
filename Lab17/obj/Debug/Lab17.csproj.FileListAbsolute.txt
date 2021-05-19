@@ -1,0 +1,20 @@
+\\tsclient\I\Технологии программирования\Lab17\bin\Debug\Lab17.exe.config
+\\tsclient\I\Технологии программирования\Lab17\bin\Debug\Lab17.exe
+\\tsclient\I\Технологии программирования\Lab17\bin\Debug\Lab17.pdb
+\\tsclient\I\Технологии программирования\Lab17\obj\Debug\Lab17.csprojAssemblyReference.cache
+\\tsclient\I\Технологии программирования\Lab17\obj\Debug\Lab17.Form1.resources
+\\tsclient\I\Технологии программирования\Lab17\obj\Debug\Lab17.Properties.Resources.resources
+\\tsclient\I\Технологии программирования\Lab17\obj\Debug\Lab17.csproj.GenerateResource.cache
+\\tsclient\I\Технологии программирования\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+\\tsclient\I\Технологии программирования\Lab17\obj\Debug\Lab17.exe
+\\tsclient\I\Технологии программирования\Lab17\obj\Debug\Lab17.pdb
+C:\C_sharp\Tech_program\Lab17\bin\Debug\Lab17.exe.config
+C:\C_sharp\Tech_program\Lab17\bin\Debug\Lab17.exe
+C:\C_sharp\Tech_program\Lab17\bin\Debug\Lab17.pdb
+C:\C_sharp\Tech_program\Lab17\obj\Debug\Lab17.csprojAssemblyReference.cache
+C:\C_sharp\Tech_program\Lab17\obj\Debug\Lab17.Form1.resources
+C:\C_sharp\Tech_program\Lab17\obj\Debug\Lab17.Properties.Resources.resources
+C:\C_sharp\Tech_program\Lab17\obj\Debug\Lab17.csproj.GenerateResource.cache
+C:\C_sharp\Tech_program\Lab17\obj\Debug\Lab17.csproj.CoreCompileInputs.cache
+C:\C_sharp\Tech_program\Lab17\obj\Debug\Lab17.exe
+C:\C_sharp\Tech_program\Lab17\obj\Debug\Lab17.pdb
